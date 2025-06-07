@@ -1,4 +1,4 @@
-# Practica-ESP32-con-DHT22
+# Practica ESP32 con DHT22
 Este repositorio muestra cómo podemos programar una ESP32 con el sensor DHT22
 ## Introducción 
 
@@ -18,6 +18,7 @@ Para realizar esta práctica necesitas lo siguiente
 ### Requisitos previos 
 
 Para poder usar este repositorio necesitas entrar a la plataforma WOKWI 
+
 https://wokwi.com/
 
 ### Instrucciones de preparación de entorno 
