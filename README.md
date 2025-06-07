@@ -33,4 +33,8 @@ https://wokwi.com/
 
 3.Hacer la conexión de DHT22 con la ESP 32 como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/a4bf7c02-6887-4e1a-93df-30205f1afe51)
+
+
+
    
