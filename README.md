@@ -23,7 +23,8 @@ https://wokwi.com/
 ### Instrucciones de preparación de entorno 
 1. Abrir la terminal de programación y colocar la siguiente programación
 
-   
+   ![image](https://github.com/user-attachments/assets/2f0141b9-f893-429b-a6ce-1f7d5eeec06e)
+
 
 3. Instalar la librería de DHT sensor library for ESPx como se muestra en la siguiente imagen
 
