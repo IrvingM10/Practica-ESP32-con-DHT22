@@ -14,3 +14,7 @@ Para realizar esta práctica necesitas lo siguiente
 - Sensor DTH22
 
 ### Instrucciones 
+
+### Requisitos previos 
+
+Para poder usar este repositorio necesitas entrar a la plataforma WOKWI https://wokwi.com/
