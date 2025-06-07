@@ -23,3 +23,4 @@ https://wokwi.com/
 ### Instrucciones de preparación de entorno 
 1. Abrir la terminal de programación y colocar la siguiente programación
    
+![image](https://github.com/user-attachments/assets/d48dcab1-a653-42a2-ab88-4677fd9fa2e8)
