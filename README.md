@@ -22,9 +22,11 @@ https://wokwi.com/
 
 ### Instrucciones de preparación de entorno 
 1. Abrir la terminal de programación y colocar la siguiente programación
+
    
 
+3. Instalar la librería de DHT sensor library for ESPx como se muestra en la siguiente imagen
 
-2. Instalar la librería de DHT sensor library for ESPx como se muestra en la siguiente imagen
+3.Hacer la conexión de DHT22 con la ESP 32 como se muestra en la siguiente imagen
 
    
