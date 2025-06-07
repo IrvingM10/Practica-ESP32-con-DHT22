@@ -52,6 +52,8 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 Desarrollado por Irving Daniel Cardoso Mota estudiante de Ing. Mecánica
 
+- https://github.com/IrvingM10/Practica-ESP32-con-DHT22
+
 
 
 
