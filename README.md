@@ -46,6 +46,12 @@ https://wokwi.com/
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguiente imagen 
 
+![image](https://github.com/user-attachments/assets/0166d39c-142c-4d01-a63d-5ab8fffb01ba)
+
+## Créditos 
+
+Desarrollado por Irving Daniel Cardoso Mota estudiante de Ing. Mecánica
+
 
 
 
