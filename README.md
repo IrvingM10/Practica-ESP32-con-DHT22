@@ -35,6 +35,18 @@ https://wokwi.com/
 
 ![image](https://github.com/user-attachments/assets/a4bf7c02-6887-4e1a-93df-30205f1afe51)
 
+### Instrucciones de operación
+1.Iniciar simulador
+
+2.Visualizar los datos en el monitor serial
+
+3.Colocar la temperatura y humedad relativa dando doble click al sensor DHT22
+
+## Resultados 
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguiente imagen 
+
+
 
 
    
